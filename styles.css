@@ -1,0 +1,9 @@
+/* Hide elements with priority listing classes */
+.priority-section,
+.priorityListings,
+.priority-item,
+[data-listing-type="priority"],
+[data-testid="priority-section"],
+[data-testid="priority-listing"] {
+  display: none !important;
+}
