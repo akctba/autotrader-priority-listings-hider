@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "AutoTrader Priority Listings Hider",
   "version": "1.0",
-  "description": "Hides vehicles under Priority Listings on AutoTrader.ca",
+  "description": "Replaces Priority Listings with red lines on AutoTrader.ca",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
